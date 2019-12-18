@@ -13,7 +13,7 @@ class TestController extends Controller
      */
     public function index()
     {
-        //
+        echo "This is just for test";
     }
 
     /**
